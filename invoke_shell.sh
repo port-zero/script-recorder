@@ -1,1 +1,0 @@
-exec bash -rcfile bashrc
