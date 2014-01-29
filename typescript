@@ -1,0 +1,8 @@
+Script started on Mon 27 Jan 2014 07:30:33 PM CET
+[?1034hRECORD>>> ls --color=auto && echo \[K[K[K[K[K[K
+CONTINUE>>> echo foo
+[0m[00;32mansifilter[0m  [01;34mansifilter-1.7_src[0m  [00mbashrc[0m  [00;32mgen_html.sh[0m  [00;32minvoke_shell.sh[0m  [00;32mrecord[0m  [00mtypescript[0m  [00mtypescript.html[0m
+foo
+RECORD>>> exit
+
+Script done on Mon 27 Jan 2014 07:30:52 PM CET

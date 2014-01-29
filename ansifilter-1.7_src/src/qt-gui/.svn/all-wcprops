@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui
+END
+ansifilter-gui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/ansifilter-gui.pro
+END
+ansifilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/ansifilter.cpp
+END
+Makefile.Debug
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/Makefile.Debug
+END
+ui_ansifilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/ui_ansifilter.h
+END
+moc_mydialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/moc_mydialog.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/main.cpp
+END
+ansifilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/ansifilter.h
+END
+mydialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/mydialog.cpp
+END
+ansifilter.ico
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/ansifilter.ico
+END
+icon.rc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/icon.rc
+END
+mydialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/mydialog.h
+END
+Makefile.Release
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/Makefile.Release
+END
+ansifilter.ui
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/ansifilter.ui
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ansifilter/!svn/ver/1/src/qt-gui/Makefile
+END

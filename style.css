@@ -1,0 +1,15 @@
+body,pre {
+  background:black;
+  color:lightgray;
+  border:0;
+}
+
+.command-line {
+  border-left:2px solid brown;
+  font-style:italic;
+  color:green;
+  margin:5px;
+}
+
+.command-line.continuation {
+}

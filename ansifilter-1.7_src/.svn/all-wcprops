@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svnroot/ansifilter/!svn/ver/0
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/ansifilter/!svn/ver/1/Doxyfile
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/ansifilter/!svn/ver/1/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/ansifilter/!svn/ver/1/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/ansifilter/!svn/ver/1/COPYING
+END
+ansifilter.spec
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/ansifilter/!svn/ver/1/ansifilter.spec
+END
+ansifilter.kdev4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/ansifilter/!svn/ver/1/ansifilter.kdev4
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/ansifilter/!svn/ver/1/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/ansifilter/!svn/ver/1/makefile
+END

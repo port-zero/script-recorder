@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svnroot/ansifilter/!svn/ver/1/src
+END
+charcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/ansifilter/!svn/ver/1/src/charcodes.h
+END
+testansi.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/ansifilter/!svn/ver/1/src/testansi.py
+END
+rtfgenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ansifilter/!svn/ver/1/src/rtfgenerator.cpp
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/ansifilter/!svn/ver/1/src/Doxyfile
+END
+texgenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ansifilter/!svn/ver/1/src/texgenerator.cpp
+END
+platform_fs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ansifilter/!svn/ver/1/src/platform_fs.cpp
+END
+plaintextgenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ansifilter/!svn/ver/1/src/plaintextgenerator.cpp
+END
+elementstyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ansifilter/!svn/ver/1/src/elementstyle.h
+END
+htmlgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ansifilter/!svn/ver/1/src/htmlgenerator.h
+END
+codegenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ansifilter/!svn/ver/1/src/codegenerator.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/ansifilter/!svn/ver/1/src/main.cpp
+END
+latexgenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ansifilter/!svn/ver/1/src/latexgenerator.cpp
+END
+bbcodegenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ansifilter/!svn/ver/1/src/bbcodegenerator.cpp
+END
+stringtools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ansifilter/!svn/ver/1/src/stringtools.cpp
+END
+cmdlineoptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ansifilter/!svn/ver/1/src/cmdlineoptions.cpp
+END
+stylecolour.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/ansifilter/!svn/ver/1/src/stylecolour.h
+END
+input.col
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/ansifilter/!svn/ver/1/src/input.col
+END
+arg_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/ansifilter/!svn/ver/1/src/arg_parser.h
+END
+enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/ansifilter/!svn/ver/1/src/enums.h
+END
+rtfgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ansifilter/!svn/ver/1/src/rtfgenerator.h
+END
+elementstyle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ansifilter/!svn/ver/1/src/elementstyle.cpp
+END
+htmlgenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ansifilter/!svn/ver/1/src/htmlgenerator.cpp
+END
+texgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ansifilter/!svn/ver/1/src/texgenerator.h
+END
+platform_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/ansifilter/!svn/ver/1/src/platform_fs.h
+END
+stylecolour.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ansifilter/!svn/ver/1/src/stylecolour.cpp
+END
+plaintextgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ansifilter/!svn/ver/1/src/plaintextgenerator.h
+END
+arg_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ansifilter/!svn/ver/1/src/arg_parser.cpp
+END
+codegenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ansifilter/!svn/ver/1/src/codegenerator.h
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/ansifilter/!svn/ver/1/src/main.h
+END
+latexgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ansifilter/!svn/ver/1/src/latexgenerator.h
+END
+bbcodegenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ansifilter/!svn/ver/1/src/bbcodegenerator.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/ansifilter/!svn/ver/1/src/version.h
+END
+stringtools.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/ansifilter/!svn/ver/1/src/stringtools.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/ansifilter/!svn/ver/1/src/makefile
+END
+cmdlineoptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ansifilter/!svn/ver/1/src/cmdlineoptions.h
+END
