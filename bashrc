@@ -1,3 +1,5 @@
 if [ -f ~/.bashrc ]; then . ~/.bashrc; fi
 
-PS4='__COMMAND__ '
+PS1='__PROMPT>>'
+PS2='__CONT>>'
+PS4='__TRACE>>'
